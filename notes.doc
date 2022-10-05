@@ -1,0 +1,50 @@
+KOC25CSE326 Web Development
+
+CRUD Operations
+C - Create
+R - Read 
+U - Update
+D - Delete
+
+Types of Projects / Company’s code base
+Private Code
+In this, the code of the company can only be altered or modified by their employees.
+
+
+Open Source
+In this, the code of the company is public, and any can make changes to its code base. 
+What changes you have done, will only be considered to be added in the code base after the review from a senior developer of that company approves.
+
+HTML
+
+Opening and closing tags
+
+<html>                                 -> opening tag
+
+</html>                                -> closing tag
+
+Structure in HTML
+
+1. Head
+2. Body 
+
+Syntax of HTML
+<html>
+<head>
+	<title>        </title>
+</head>
+
+<body>
+	
+</body>
+</html>
+
+Heading Tags
+HTML provides us with multiple heading options. These heading have some predefined styles (boldness and size of the font).
+Font size and boldness decreasing order -
+h1 > h2 > h3 > h4 > h5 > h6
+
+Paragraph Tag
+<p> Anything which you want to write inside a paragraph. </p>
+
+After partagraph’s closing tag, anything writing 
